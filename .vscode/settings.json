@@ -1,0 +1,6 @@
+{
+    "git.ignoreLimitWarning": true,
+    "avdmanager.executable": "c:\\android\\sdk\\cmdline-tools\\latest\\bin\\avdmanager.bat",
+    "avdmanager.sdkManager": "c:\\android\\sdk\\cmdline-tools\\latest\\bin\\sdkmanager.bat",
+    "avdmanager.emulator": "c:\\android\\sdk\\emulator\\emulator.exe"
+}
