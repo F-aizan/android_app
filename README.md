@@ -1,16 +1,10 @@
-# fproject
+# Flutter Mental Health Application
+An application made with Flutter and Firebase that gives information about mental health.
+This application provides mental health tests based on questioning to get the mental health
+state of a person. It also include a booking appointments system to book appointments with 
+Counselors.
 
-A new Flutter project.
+![Screenshot_2022-12-11-19-13-13-195_com example fproject](https://github.com/F-aizan/android_app/assets/89559647/c6900f07-ff83-454e-94f8-d5aec12fa553)
 
-## Getting Started
+![Screenshot_2022-12-11-19-13-25-118_com example fproject](https://github.com/F-aizan/android_app/assets/89559647/7daf118e-03f6-4e95-a616-695a8e1ac2ea)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
